@@ -6,3 +6,4 @@ new3
 test-Branch
 VScode は KomiWorkアカウントです
 hello
+testのブランチを作りました。
